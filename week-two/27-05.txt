@@ -1,5 +1,23 @@
 27/05/2024
 09:00 to 
+03:00 to 03:30
 
 - Learned git
 - Learned git branch, 
+- Completed level 1 of gitbranching game
+
+- Researched jira
+reference site: https://www.productplan.com/glossary/jira/
+YT link: https://www.youtube.com/watch?v=iv8rSLsi1xo
+- Jira is a project management software tool used to manage all the softwares, teams, plans and keep track
+of work.
+- Supports agile methodologies
+
+- Researched Local WP
+local development environment for WordPress
+YT link: https://youtu.be/fArmNhkSrSw?si=pEqwv6cTtdT1hqmT
+
+- Changed the hero size of the webpage queens.lk
+
+- Made a blog post for vehicle buying & selling category. Kept it private.
+Topic: Buying Smart: Safeguard Against Car Scams in Sri Lanka
