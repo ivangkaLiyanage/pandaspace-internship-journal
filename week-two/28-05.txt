@@ -1,5 +1,5 @@
 28/05/2024
-09:30 to 
+09:30 to 6:38 
 03.38 to 4:09
 
 
@@ -24,3 +24,9 @@ and known for its ease of learning, versatility, and extensive library support.
 - Explained wordpress from begining - was told to make a list of tasks for wordpress
 - Made a small ecommerce website using woocommerce plugin
 
+- Edit a bit on the SEO part of queens.lk
+referred: https://youtu.be/uv9jMFSptMc?si=NhlN5pTYk_R4Y3iw
+
+- Made a list of tasks to create a wordpress webpage
+
+- Completed 4 stages of GIT game
