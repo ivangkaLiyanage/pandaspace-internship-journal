@@ -1,6 +1,26 @@
 28/05/2024
 09:30 to 
+03.38 to 4:09
 
 
 - Downloaded YOAST plugin
 - Made questions to ask a client pior to making the webpage
+
+- Differences between LEMP and LAMP stack
+LAMP uses Apache, which is known for its extensive features and configurability.
+
+LEMP uses Nginx, which is known for its high performance and efficiency with static content and high concurrent connections.
+
+- APACHE VS NGINX
+serve as the backbone for delivering web content to users across the internet.
+APACHE - is versatile and widely supported, suitable for complex configurations and shared hosting environments where per-directory configuration is necessary.
+NGINX - Nginx is high-performance and efficient, ideal for high-traffic websites, static content delivery, and as a reverse proxy/load balancer.
+
+- PHP : widely-used open-source server-side scripting language embedded in HTML, designed for web development, supporting database integration, 
+and known for its ease of learning, versatility, and extensive library support.
+
+- Built a website on Local WP
+- Made an account on Jira
+- Explained wordpress from begining - was told to make a list of tasks for wordpress
+- Made a small ecommerce website using woocommerce plugin
+
