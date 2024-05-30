@@ -7,6 +7,10 @@
 
 - Went through SSH 
 - What ssh is and how to generate a SSH key pair
+- Went through LINUX and it's distributors
+
+- And got a basic idea about AWS and its different products
+- Found what other server stacks are available like lamp and lemp
 
 
 - Made an account in webhost and AWS
