@@ -1,3 +1,8 @@
 30.05.2024
-09:30 to 
+09:30 to 05:52 
+03:25 to 03:58
 
+- made an oracle account 
+- made a server with LAMP
+- installed linux, apache, mysql, php to the local machine
+- made blog post under real estate category
