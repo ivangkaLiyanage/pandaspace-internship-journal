@@ -1,0 +1,10 @@
+01.06.2024
+09:30 - 
+01:56 - 02:30
+04:08 - 04:47 break
+
+- Did initial server set up with ubuntu
+- Installed LAMP stack on Ubuntu and created an account
+- SSL: secured APACHE with ubuntu
+- Installed wordpress on ubuntu
+- Made an account on Figma

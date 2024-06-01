@@ -1,0 +1,13 @@
+31.05.2024
+09:30 - 
+03:07 to 03:38
+04:00 - 05:13 - nothing
+05:13 - 07:50 end
+
+- Made a note about Linux server set up 
+- Made another blog post on Real Estate
+- Learned about how to inform search engine about a new website
+- Deleted EC2 instance
+- Started working on a webpage using Local WP and Elementor
+- Researched about Prompt Engineering
+
