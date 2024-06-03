@@ -1,0 +1,14 @@
+03.06.2024 
+09:30 - 
+03:30 - 04:00
+
+- Started with LEMP stack server
+- Set up Jira
+- Watched 6 what is UI YT videos and made notes
+- Watched what is UX YT video
+- Watched colour pallets video
+- Watched a Figma video
+- Installed wordpress again on LAMP stack
+- Did some debugging in the LAMP stack with the team lead
+- Tried to install certbot and configure SSL certificate but was not successful in LEMP server  
+
