@@ -1,0 +1,16 @@
+09:30 - 07:47
+02:14 - 02:44
+
+- Finished the LAMP server and downloaded wordpress and configured it
+- Finished the LEMP server and downloaded wordpress and configured it
+- Started Figma
+- Watched a YT video and followed a UI tutorial 
+	https://www.youtube.com/watch?si=OSqA-2zqPvUwy_B2&v=FTFaQWZBqQ8&feature=youtu.be
+
+- Python refresher:
+	Basic syntax and operations
+	Data structures
+	String manipulation 
+
+- Created another repositary for python refreshers. 
+
