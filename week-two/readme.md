@@ -1,6 +1,7 @@
 # pandaspace-internship-journal
 
 # Weekly Log - Week 2024-06
+# hours worked - 49hrs 27mins
 
 ## Overview of the Week
 - This week I learned so many new concepts. I learned about Git, mastering some basic commands and branching techniques. I researched Jira's functionalities. 
