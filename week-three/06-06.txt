@@ -1,8 +1,9 @@
+06.06.2024
 09:30 - 06:40
 01:00 - 01:30
 
 - Made a blog post on Linux
 - Did Python refresher:
-	File Handling
+	Finished File Handling
 	Functions modules
 	Starated classes and objects

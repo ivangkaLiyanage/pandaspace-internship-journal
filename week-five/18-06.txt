@@ -1,0 +1,6 @@
+18.06.2024
+09:30 - 09:25 
+04:00 - 04:30
+- Started leetcode begineers guide and solved some basic intro problems
+- Freecodecamp JavaScript
+     - Finished Learn Basic JavaScript by Building a Role Playing Game 

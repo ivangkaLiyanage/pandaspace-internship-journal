@@ -1,0 +1,7 @@
+17.06.2024
+09:30 - 09:28 
+04:00 - 04:30
+- Started freeCodeCamp
+	JavaScript Algorithms and Data Structures (Beta)
+	- Finished Learn Introductory JavaScript by Building a Pyramid Generator 
+	- Finished Review JavaScript Fundamentals by Building a Gradebook App
