@@ -1,0 +1,14 @@
+11.06.2024
+09:30 - 07:33 
+03:24 - 03:47
+
+- Started password generator extension
+- Created an initial HTML for the extension
+- Created the first v1 with 
+	add eventlistner to generate the button
+	creating generate password function - return the generated password
+	checkbox. .. uppercase, lowercase, numbers and symbols function and html
+	copied password to the clipboard
+	without selecting checkbox pwd btn disable
+
+
