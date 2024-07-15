@@ -6,6 +6,7 @@
 ## Overview of the Week
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 - This week was productive and diverse in learning. I got a thorough understanding into server setups as I started the week finishing setting up the LEMP stack.
   Also i got a thorough understanding about design concepts, and python. I completed setting up both LAMP and LEMP stacks, explored UI/UX design through Figma,
   and revisited Python basics. I also created few blog posts and continued enhancing my WordPress development skills.
@@ -15,6 +16,8 @@
   on LEMP stack, and debugged issues with SSL certificates in the LEMP server. I explored UI and UX design through videos and tutorials, focusing on color palettes
   and Figma for creating a portfolio UI. I also refreshed my Python skills, covering basic syntax, data structures, string manipulation, file handling, and object-oriented programming.
 =======
+=======
+>>>>>>> week-four
 - This week was productive and diverse in learning. I got a thorough understanding into server setups as I started the week finishing setting up the LEMP stack. 
   Also i got a thorough understanding about design concepts, and python. I completed setting up both LAMP and LEMP stacks, explored UI/UX design through Figma, 
   and revisited Python basics. I also created few blog posts and continued enhancing my WordPress development skills.
@@ -23,6 +26,9 @@
 - This week, I completed several important tasks and expanded my knowledge in various areas. I successfully set up both LAMP and LEMP servers, configured WordPress 
   on LEMP stack, and debugged issues with SSL certificates in the LEMP server. I explored UI and UX design through videos and tutorials, focusing on color palettes 
   and Figma for creating a portfolio UI. I also refreshed my Python skills, covering basic syntax, data structures, string manipulation, file handling, and object-oriented programming. 
+<<<<<<< HEAD
+>>>>>>> week-four
+=======
 >>>>>>> week-four
   Additionally, I wrote a blog post on Linux and tried out different WordPress themes and plugins for my personal portfolio.
 
@@ -59,7 +65,11 @@
 
 ## Additional Comments
 <<<<<<< HEAD
+<<<<<<< HEAD
 - This week has been very a good experience and hands-on. I appreciate the guidance from my team lead and the opportunity to work on diverse tasks, which has significantly enhanced my technical skills.
+=======
+- This week has been very a good experience and hands-on. I appreciate the guidance from my team lead and the opportunity to work on diverse tasks, which has significantly enhanced my technical skills. 
+>>>>>>> week-four
 =======
 - This week has been very a good experience and hands-on. I appreciate the guidance from my team lead and the opportunity to work on diverse tasks, which has significantly enhanced my technical skills. 
 >>>>>>> week-four

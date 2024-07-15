@@ -2,7 +2,14 @@
 09:30 - 08:07
 01:00 - 01:30
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+
+Python refresher:
+	Started File handling 
+	Functions-modules
+>>>>>>> week-four
 
 Python refresher:
 	Started File handling 
