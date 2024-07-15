@@ -1,10 +1,10 @@
 # pandaspace-internship-journal
 
 # Weekly Log - Week 2024-07
-# Hours worked: 49hrs 56mins
+# Hours worked: 66hrs 48mins
 
 ## Overview of the Week:
-- This week, I focused on enhancing my JavaScript skills through freeCodeCamp and LeetCode exercises. I completed various projects and modules, gaining hands-on experience in JavaScript algorithms, 
+- This week, I focused on my JavaScript skills through freeCodeCamp and LeetCode exercises. I completed various projects and modules, gaining hands-on experience in JavaScript algorithms, 
   data structures, DOM manipulation, and string and array methods. Additionally, I worked with my team lead to draft a proposal for Xotic Customs, covering online presence assessment and domain checkup.
 
 ## What I Learned This Week:
