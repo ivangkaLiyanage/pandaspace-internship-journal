@@ -1,0 +1,4 @@
+10.07.2024
+09:30 - 04:00
+-Freecodecamp JavaScript:
+	- Finished Learn Basic String and Array Methods by Building a Music Player

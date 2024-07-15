@@ -1,0 +1,6 @@
+11.07.2024
+09:30 - 6:00
+03:22 - 04:12
+- Start of new website project
+	- Initial wordpress set up
+	- Set up Menu and Pages
