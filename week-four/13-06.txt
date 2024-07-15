@@ -1,9 +1,0 @@
-13.06.2024
-09:30 - 08:11
-12:15 - 01:20
-
-- Started making the UI of password extension
-- Created it from teleportHQ
-- Checked some videos on how to import from Figma to teleportHQ
-- Tried importing but didn't work so made the skeleton from teleportHQ
-- Finished the skeleton of UI in teleportHQ

@@ -1,9 +1,0 @@
-14.06.2024
-09:30 - 08:22
-03:22 - 04:02
-
-- Team lead made changes to the UI, provided a better version of the 
-  password generator UI by refactoring using VS code as well.
-- Made many changes.
-- Downloaded HTML/CSS from teleportHQ
-- Combined all JS,HTML and CSS
